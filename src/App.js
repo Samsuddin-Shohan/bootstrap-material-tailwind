@@ -1,11 +1,10 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Button from 'react-bootstrap/Button';
-import Check from './Components/Check/Check';
+
 import { useState } from 'react';
 import { useEffect } from 'react';
-import { Card, CardGroup, Row, Spinner } from 'react-bootstrap';
+import {  Row, Spinner } from 'react-bootstrap';
 import Cards from './Components/Cards/Cards';
 
 
